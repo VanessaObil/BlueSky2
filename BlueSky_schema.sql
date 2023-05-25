@@ -1,6 +1,6 @@
-CREATE DATABASE aeropuerto2 CHARACTER set utf8mb4;
+CREATE DATABASE BlueSky CHARACTER set utf8mb4;
 
-USE aeropuerto2;
+USE BlueSky;
 
 create table aerolinea(
 id_aerolinea int not null primary key,
